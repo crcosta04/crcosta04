@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- HEADER -->
 
 <h1 align="center">Constança Costa</h1>
