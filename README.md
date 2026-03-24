@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:rc.constanca@gmail.com">Email</a> •
+  <a href="mailto:crc.concha@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/constança-costa-ab787b254">LinkedIn</a>
 </p>
 
@@ -60,29 +60,21 @@ IntelliJ • VS Code • Android Studio • GitHub • Slack & Discord
 
 ---
 
-## Education
-
-**B.Sc. in Computer Science and Computer Engineering**
-ISEL — Instituto Superior de Engenharia de Lisboa
-2022 – Present
-
----
-
 ## What I'm Working On
-###Scheduling System (Final Year Project)
+### Scheduling System (Final Year Project)
 
-Currently developing an intelligent system for automatic schedule generation as part of the Project and Seminar course (ISEL).
+Currently developing an intelligent system for automatic schedule generation as part of the Project and Seminar course.
 
 Goal: generate optimized weekly schedules, conflict-free and compliant with all constraints, based on teachers' and students' availability.
 
-###Technologies & Architecture
+### Technologies & Architecture
 
 Android (Kotlin + Jetpack Compose)
 Backend as a Web API
 PostgreSQL
 Integrations: Google Calendar API + automated email services
 
-###Key Features
+### Key Features
 
 Availability collection (text, image, audio, or PDF with LLM assistance)
 Automatic normalization into uniform time blocks
