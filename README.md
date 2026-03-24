@@ -31,33 +31,13 @@ Currently seeking an **internship or entry-level opportunity** to apply and expa
 ## Technical Skills
 
 ### Programming Languages
+Kotlin • Java • JavaScript • C • SQL • HTML • CSS • ASSEMBLY
 
-* Kotlin
-* Java
-* Python
-* JavaScript
-* C
-* SQL (PostgreSQL)
-* HTML & CSS
+### Frameworks & Tools
+Spring Boot • React • Node.js • Docker • PostgreSQL • MongoDB • Postman • Jetpack Compose
 
-### Frameworks & Technologies
-
-* Spring Boot
-* Node.js
-* React
-* Jetpack Compose
-* PostgreSQL
-* MongoDB
-* Docker
-* Postman
-
-### Tools
-
-* GitHub
-* IntelliJ IDEA
-* VS Code
-* Android Studio
-* Slack & Discord
+Environment
+IntelliJ • VS Code • Android Studio • GitHub • Slack & Discord
 
 ---
 
