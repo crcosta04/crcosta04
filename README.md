@@ -76,12 +76,12 @@ Integrations: Google Calendar API + automated email services
 
 ### Key Features
 
-Availability collection (text, image, audio, or PDF with LLM assistance)
-Automatic normalization into uniform time blocks
-Compatibility and session allocation algorithm
-Automatic generation of optimized schedules
-Google Calendar event creation
-Automated email notifications
+* Availability collection (text, image, audio, or PDF with LLM assistance)
+* Automatic normalization into uniform time blocks
+* Compatibility and session allocation algorithm
+* Automatic generation of optimized schedules
+* Google Calendar event creation
+* Automated email notifications
 ---
 
 ## Interests
